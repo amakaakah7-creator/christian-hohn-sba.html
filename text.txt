@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Christian Hohn - SBA Funding Officer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: linear-gradient(135deg, #001f3f 0%, #003087 100%);
+      color: #333;
+      margin: 0;
+      padding: 20px;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 15px 35px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+    .header {
+      background: #003087;
+      color: white;
+      text-align: center;
+      padding: 25px 20px;
+    }
+    .header h1 { margin: 0; font-size: 28px; }
+    .content {
+      padding: 40px;
+      display: flex;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+    .id-card-container {
+      flex: 1;
+      min-width: 380px;
+      text-align: center;
+    }
+    .bio {
+      flex: 1;
+      min-width: 420px;
+    }
+    .id-card {
+      border: 8px solid #003087;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+      background: white;
+      margin: 0 auto;
+    }
+    .footer {
+      background: #003087;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <h1>U.S. Small Business Administration</h1>
+    <p style="margin:5px 0 0 0; opacity:0.9;">Official Profile • Office of Capital Access</p>
+  </div>
+
+  <div class="content">
+    
+    <!-- ID Card -->
+    <div class="id-card-container">
+      <h2 style="color:#003087; margin-bottom:15px;">Official ID Card</h2>
+      <div class="id-card">
+        <img src="https://files.oaiusercontent.com/file-Ytf2O?se=2026-05-20T00%3A00%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DEdited%20Image.jpg" 
+             alt="Christian Hohn SBA ID Card" style="width:100%; height:auto; display:block;">
+      </div>
+      <p style="margin-top:15px; font-size:14px; color:#666;">
+        <strong>Christian Hohn</strong><br>
+        Funding Officer • ID: SBA-FO-478291
+      </p>
+    </div>
+
+    <!-- Bio -->
+    <div class="bio">
+      <h2 style="color:#003087;">Christian Hohn</h2>
+      <h3 style="color:#d32f2f; margin-top:0;">Funding Officer, Office of Capital Access</h3>
+      
+      <p><strong>Professional Summary</strong><br>
+      Christian Hohn is a highly experienced Funding Officer at the U.S. Small Business Administration with over 12 years in federal small business financing. He specializes in SBA 7(a), 504, and microloan programs, helping entrepreneurs across the United States access critical capital.</p>
+
+      <hr style="border:1px solid #eee; margin:25px 0;">
+      
+      <h3>Key Information</h3>
+      <ul>
+        <li><strong>Full Name:</strong> Christian Hohn</li>
+        <li><strong>Title:</strong> Funding Officer</li>
+        <li><strong>ID Number:</strong> SBA-FO-478291</li>
+        <li><strong>Issued:</strong> May 2026 &nbsp; | &nbsp; <strong>Expires:</strong> May 2029</li>
+        <li><strong>Location:</strong> Washington, D.C.</li>
+        <li><strong>Specialties:</strong> Loan Underwriting, Credit Analysis, Economic Development</li>
+      </ul>
+
+      <h3 style="margin-top:30px;">Professional Background</h3>
+      <p>Christian has facilitated over <strong>$185 million</strong> in SBA-backed financing. Prior to joining the SBA, he worked with the U.S. Department of Commerce and the Illinois Small Business Development Center. He holds an MBA in Finance & Entrepreneurship from the University of Illinois at Chicago and is a Certified Economic Development Professional.</p>
+
+      <p style="margin-top:25px; font-size:15px; color:#003087;">
+        <strong>Official Use • U.S. Government ID</strong><br>
+        This profile is for verification and professional purposes.
+      </p>
+    </div>
+  </div>
+
+  <div class="footer">
+    U.S. Small Business Administration • Official Record • Confidential
+  </div>
+</div>
+
+</body>
+</html>
